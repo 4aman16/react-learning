@@ -1,0 +1,34 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "this is react learning course",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4aman16/react-learning.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Aman Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4aman16/react-learning/issues"
+  },
+  "homepage": "https://github.com/4aman16/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+ "browserlist": [
+  "last 2 versions"
+ ]
+}
