@@ -53,3 +53,8 @@
     flex-wrap: wrap;
     justify-content:flex-start;
 }
+
+.filter-btn {
+    margin: 10px;
+    cursor: pointer;
+}
