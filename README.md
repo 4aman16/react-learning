@@ -56,3 +56,8 @@ It is similar to JS utility function written by facebook in utility
 
 - useState() - Super powerful state variable
 - useEffect()
+
+# Two types of Rounting
+
+- Client side routing : All the components are loaded so when we go to any other page it just calls the component it doesn't make any network call.
+- Server side routing : Make a network call and page comes from network call.
